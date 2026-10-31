@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+data
+docs
+screenshots
+tests
+.project-flow
+*.md
+.env
